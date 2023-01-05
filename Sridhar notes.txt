@@ -1,0 +1,83 @@
+there is no resriction on how many variables/ methods/ constructor
+
+IDE - Integration development environment.
+
+Eclipse 
+IntelliJ
+
+We will write classes inside a package. There is no limit on how many classes need to present inside a package.
+naming conventions 
+---
+package - all letters should be in lower case. and if multiple words are present, each word should be sepearted with . (dot)
+naming follows revese words order.
+
+search.com.amazon
+
+class
+---
+Starting character should be uppercase. and if multiple words are present, each word 1st character should be upperCase.
+
+variable/ method (function)
+--
+camel case format. firstword all chars should be in lower case. If multiple words are present, from 2nd word onwards 1st char should be uppercase.
+
+rateOfInterest - 
+
+1. variable name should not starts with number. we can have numbers in middle of variable name. $ , _
+2. spaces are not allowed. if neccesary we will use _ to separate words.
+3. there is no limit on no.of characters.
+4. we cannot use Java keywords to name any variable. method etc..
+5. what ever the names we are giving all should convey actual meaning of that purpose.
+
+invisible parent class - Object
+
+main(
+program execution starting point.
+After detecting main method, prog execution occur step by step.
+
+public static void main(String[] args)
+{
+
+}
+
+we can use logic from one method in other method.
+
+logic build - method declaration only once
+method call - method calling ends with ; - any time in mainmethod or any method
+
+Stack memory
+--
+contains both variable and values, if variable is of primitive dataType.
+
+Heap
+--
+
+
+1. Primitive DataType - 8 types 
+Numbers - 4 types
+Decimal numbers - 2 types
+true/ flase - 1 type
+char - 1 type
+
+byte - 1 byte - 8 bits - 00000000 - 11111111
+0-     27+      22+21+20 = 1+2+4+8+16+32+64+128 = 256 = -128 to +127
+
+short - 2 byte - 16 bits - 65567 = 
+
+variable representation 2 parts
+1. variable declaration - dataType with variableName;
+2. variable assignment - dataType with variableName = value;
+
+2. Non-Primitive DataType (Reference Variable) - Object
+
+we cannot take non-static content(variable/ method) inside static block
+But we can take static content (variable/ method) inside non-static block
+
+static - class level data - is common accross any objects.
+
+(parameters) - while declaring method
+(arguments) - passing values to pareameters, at the time of calling method.
+
+
+
+
