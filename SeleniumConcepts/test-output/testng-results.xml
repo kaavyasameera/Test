@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61" started-at="2022-12-27T15:37:23Z" finished-at="2022-12-27T15:37:23Z">
+    <groups>
+      <group name="Sanity">
+        <method signature="TestNGAnnotations.closeBrowser()[pri:252, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="closeBrowser" class="concepts.selenium.SeleniumConcepts.TestNGAnnotations"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TestNGAnnotations.closeBrowser()[pri:252, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="closeBrowser" class="concepts.selenium.SeleniumConcepts.TestNGAnnotations"/>
+      </group> <!-- Regression -->
+      <group name="Adhoc">
+        <method signature="TestNGAnnotations.loginCheck()[pri:0, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="loginCheck" class="concepts.selenium.SeleniumConcepts.TestNGAnnotations"/>
+      </group> <!-- Adhoc -->
+    </groups>
+    <test name="Default test" duration-ms="61" started-at="2022-12-27T15:37:23Z" finished-at="2022-12-27T15:37:23Z">
+      <class name="concepts.selenium.SeleniumConcepts.TestNGAnnotations">
+        <test-method status="PASS" signature="bs()[pri:0, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="bs" is-config="true" duration-ms="19" started-at="2022-12-27T21:07:23Z" finished-at="2022-12-27T21:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method status="PASS" signature="bt()[pri:0, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="bt" is-config="true" duration-ms="0" started-at="2022-12-27T21:07:23Z" finished-at="2022-12-27T21:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method status="PASS" signature="bc()[pri:0, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="bc" is-config="true" duration-ms="0" started-at="2022-12-27T21:07:23Z" finished-at="2022-12-27T21:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="bm" is-config="true" duration-ms="1" started-at="2022-12-27T21:07:23Z" finished-at="2022-12-27T21:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="loginCheck()[pri:0, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="loginCheck" duration-ms="18" started-at="2022-12-27T21:07:23Z" finished-at="2022-12-27T21:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCheck -->
+        <test-method status="PASS" signature="am()[pri:0, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="am" is-config="true" duration-ms="1" started-at="2022-12-27T21:07:23Z" finished-at="2022-12-27T21:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="bm()[pri:0, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="bm" is-config="true" duration-ms="1" started-at="2022-12-27T21:07:23Z" finished-at="2022-12-27T21:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="closeBrowser()[pri:252, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="closeBrowser" duration-ms="3" started-at="2022-12-27T21:07:23Z" finished-at="2022-12-27T21:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="ac()[pri:0, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="ac" is-config="true" duration-ms="0" started-at="2022-12-27T21:07:23Z" finished-at="2022-12-27T21:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method status="PASS" signature="am()[pri:0, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="am" is-config="true" duration-ms="0" started-at="2022-12-27T21:07:23Z" finished-at="2022-12-27T21:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method status="PASS" signature="at()[pri:0, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="at" is-config="true" duration-ms="1" started-at="2022-12-27T21:07:23Z" finished-at="2022-12-27T21:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method status="PASS" signature="as()[pri:0, instance:concepts.selenium.SeleniumConcepts.TestNGAnnotations@4b952a2d]" name="as" is-config="true" duration-ms="0" started-at="2022-12-27T21:07:23Z" finished-at="2022-12-27T21:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- concepts.selenium.SeleniumConcepts.TestNGAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

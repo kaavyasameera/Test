@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Suite" parallel="methods">
+  <test name="Test">
+    <classes>
+    <groups>
+<run>		
+    <exclude name="Sanity" />		
+   </run>
+    </groups>
+      <class name="concepts.selenium.SeleniumConcepts.TestNGAnnotations"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
