@@ -14,7 +14,7 @@ public class AmazeCar
 	public static float emiRateOfInterest = 11.66f;  // decimal number
 	public char customerRating = 'A'; // character // If customer rating is A or B, we can provide Loan
 	public boolean loanEligibility = true; // decision making
-	public long customerAadharNumber = 123456789112l;
+	public long customerAadharNumber = 123456788112l;
 static int sum;
 	public static void main(String[] args) 
 	{
