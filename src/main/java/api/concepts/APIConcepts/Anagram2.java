@@ -9,6 +9,7 @@ public class Anagram2 {
 		int len = s1.length();
 		
 		(a,b) -> a.compareTo(b);
+		//gjg
 	}
 
 }
