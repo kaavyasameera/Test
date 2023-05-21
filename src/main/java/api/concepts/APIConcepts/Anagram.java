@@ -8,7 +8,7 @@ public class Anagram {
 		String s1 = "aabb", s2 = "Care";
 		s1 = s1.toLowerCase();
 		s2 = s2.toLowerCase();
-		char[] s11 = s1.toCharArray(); //hello
+		char[] s11 = s1.toCharArray(); //hello world
 		char[] s12 = s2.toCharArray(); //tom
 		int len = s1.length();
 		char temp=' ';
