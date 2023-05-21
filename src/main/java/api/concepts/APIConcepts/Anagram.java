@@ -9,7 +9,7 @@ public class Anagram {
 		s1 = s1.toLowerCase();
 		s2 = s2.toLowerCase();
 		char[] s11 = s1.toCharArray(); //hello
-		char[] s12 = s2.toCharArray();
+		char[] s12 = s2.toCharArray(); //tom
 		int len = s1.length();
 		char temp=' ';
 		for(int i=0; i<len; i++)
