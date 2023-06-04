@@ -1,8 +1,9 @@
-2222222222221111133333333334444
+222222222222111113333333333
 there is no resriction on how many variables/ methods/ constructor
 333333333
 here also
 
+adding import
 
 huff
 IDE - Integration development environment.
@@ -86,6 +87,8 @@ static - class level data - is common accross any objects.
 
 (parameters) - while declaring method
 (arguments) - passing values to pareameters, at the time of calling method.
+
+all live
 
 adding new lines
 
