@@ -2,6 +2,7 @@
 there is no resriction on how many variables/ methods/ constructor
 333333333
 
+adding import
 
 IDE - Integration development environment.
 
@@ -73,6 +74,8 @@ variable representation 2 parts
 
 2. Non-Primitive DataType (Reference Variable) - Object
 
+
+
 we cannot take non-static content(variable/ method) inside static block
 But we can take static content (variable/ method) inside non-static block
 
@@ -80,6 +83,8 @@ static - class level data - is common accross any objects.
 
 (parameters) - while declaring method
 (arguments) - passing values to pareameters, at the time of calling method.
+
+all live
 
 
 
