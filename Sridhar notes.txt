@@ -2,11 +2,13 @@
 there is no resriction on how many variables/ methods/ constructor
 333333333
 
-
+huff
 IDE - Integration development environment.
 
 Eclips e  
 IntelliJ
+
+reallly
 
 We will write classes inside a package. There is no limit on how many classes need to present inside a package.
 naming conventions 
@@ -80,6 +82,9 @@ static - class level data - is common accross any objects.
 
 (parameters) - while declaring method
 (arguments) - passing values to pareameters, at the time of calling method.
+
+hello I added
+some new lines
 
 
 
