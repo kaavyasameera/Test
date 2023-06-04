@@ -1,11 +1,15 @@
 2222222222221111133333333334444
 there is no resriction on how many variables/ methods/ constructor
 333333333
+here also
+
 
 huff
 IDE - Integration development environment.
 
-Eclips e  
+hehe
+
+Eclips e
 IntelliJ
 
 reallly
@@ -82,6 +86,8 @@ static - class level data - is common accross any objects.
 
 (parameters) - while declaring method
 (arguments) - passing values to pareameters, at the time of calling method.
+
+adding new lines
 
 hello I added
 some new lines
