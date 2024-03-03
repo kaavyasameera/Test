@@ -30,7 +30,7 @@ public class MouseHover
 		action.moveToElement(clientRosources).build().perform();
 		String expectedDropDownItem = "Voice of the Customer";
 		chrome.findElement(By.xpath("//a[text()='"+expectedDropDownItem+"']")).click();
-		String header = chrome.findElement(By.tagName("h1hgfh")).getText();
+		String header = chrome.findElement(By.tagName("h1vhjhgfh")).getText();
 		if(header.equals("Voice of the Customer"))
 			System.out.println("Page correctly redirected "+expectedDropDownItem);
 		else
