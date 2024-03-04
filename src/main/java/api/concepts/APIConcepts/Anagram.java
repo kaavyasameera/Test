@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Anagram {
 
 	public static void main(String[] args) {
-		String s1 = "aahvhgbb", s2 = "Care";
+		String s1 = "aabbcc", s2 = "Care";
 		s1 = s1.toLowerCase();
 		s2 = s2.toLowerCase();
 		char[] s11 = s1.toCharArray(); //hello world KIms lolaaapp
