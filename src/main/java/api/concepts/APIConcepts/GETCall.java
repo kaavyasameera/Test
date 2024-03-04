@@ -18,7 +18,7 @@ public class GETCall
 	Response r = 	RestAssured.
 		given().
 		when().
-		get("https://petstore.swagger.io/v2/store/order/6").
+		get("https:/vbcvb/petstore.swagger.io/v2/store/order/6").
 		then().
 		statusCode(200).
 	extract().response();
