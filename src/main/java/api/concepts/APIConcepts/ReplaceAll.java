@@ -7,5 +7,6 @@ public class ReplaceAll {
         String name = "kasvika123@#";
         name = name.replaceAll("[^a-z]","").toUpperCase();
         System.out.println("name is in capital letters : "name);
+
     }
 }
