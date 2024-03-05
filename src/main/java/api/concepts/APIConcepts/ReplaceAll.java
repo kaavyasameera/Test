@@ -8,5 +8,6 @@ public class ReplaceAll {
         name = name.replaceAll("[a-z 0-9]","");
         System.out.println("special chars are: " name);
 
+
     }
 }
